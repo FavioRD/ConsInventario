@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\ConsInventario\Inventario\InventarioApp\bin\Debug\InventarioApp.exe.config
+C:\Users\User\Desktop\ConsInventario\Inventario\InventarioApp\bin\Debug\InventarioApp.exe
+C:\Users\User\Desktop\ConsInventario\Inventario\InventarioApp\bin\Debug\InventarioApp.pdb
+C:\Users\User\Desktop\ConsInventario\Inventario\InventarioApp\obj\Debug\InventarioApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ConsInventario\Inventario\InventarioApp\obj\Debug\InventarioApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ConsInventario\Inventario\InventarioApp\obj\Debug\InventarioApp.exe
+C:\Users\User\Desktop\ConsInventario\Inventario\InventarioApp\obj\Debug\InventarioApp.pdb
