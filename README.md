@@ -68,5 +68,5 @@ Si deseas mejorar este proyecto, puedes seguir estos pasos:
 4. Envía un Pull Request.
 
 ## Autor
-**Favio** - [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+**Favio** - [LinkedIn](https://www.linkedin.com/in/favio-ramos-75b545282/)
 
